@@ -11,7 +11,7 @@ The code implement two different approaches to training a reinforcement learning
 
 2)  The logic programming language Datalog is used to implement a system of rewards which depends not only on the agent's last action, but on generalised patterns specified recursively.  An example would be to use a recursive definition of a cycle in space over time, and reward a cartpole agent for small cycles around the origin.  
 
-|![](images/recursive_reward.gif)|
+|![](images/recursive_reward.png)|
 |:--:| 
 | Recursively defined reward system for training a cartpole agent |
 
